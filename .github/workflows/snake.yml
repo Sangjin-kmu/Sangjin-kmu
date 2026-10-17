@@ -30,6 +30,8 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
+          # 프로필 활동을 비공개로 두면 잔디를 읽지 못해 빈 판이 나온다. 그때는 올리지 않고 전에 만든 그림을 그대로 둔다.
+          if ! grep -q 'class="c c[0-9]' snake-dark.svg; then echo "빈 잔디라서 건너뜀"; exit 0; fi
           git init -q -b output
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
