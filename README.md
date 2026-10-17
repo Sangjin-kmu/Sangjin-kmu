@@ -13,7 +13,7 @@
 ## projects/
 
 <details open>
-<summary><kbd>2026</kbd>&ensp;<b>모나와</b>&ensp;학식 리뷰 서비스, 혼자 만들고 운영&nbsp;중</summary>
+<summary><kbd>2026</kbd>&ensp;<b>모나와</b>&ensp;학식 리뷰 서비스</summary>
 <br>
 
 <img src="assets/monawa.webp" alt="모나와 홈, 랭킹, 메뉴 상세, 검색 화면" width="100%">
@@ -36,13 +36,13 @@ stack:  Next.js, TypeScript, Tailwind CSS, PostgreSQL(RDS),
 </details>
 
 <details>
-<summary><kbd>2026</kbd>&ensp;<b>우리가족 체력키움</b>&ensp;가족 체력 웹 서비스, 개발&nbsp;중</summary>
+<summary><kbd>2026</kbd>&ensp;<b>체력키움</b>&ensp;가족 체력 서비스</summary>
 <br>
 
 <img src="assets/kium.webp" alt="체력키움 아이 홈의 3D 섬, 부모 홈, 가족 리그, 오늘 운동 화면" width="100%">
 <br><br>
 
-국민체력100 공공데이터로 아이 체력을 재고, 부모와 아이가 같이 운동을 이어 가게 만드는 서비스입니다. 국민대 알파프로젝트로 시작해 한국스포츠정책과학원 공공데이터 활용 경진대회에 냈고, 저는 프론트엔드 전체와 시연용 AWS 배포를 맡고 있습니다. 아이 홈은 three.js로 만든 3D 섬이고, 운동한 날마다 섬에 나무가 한 그루씩 자랍니다.
+우리가족 체력키움은 국민체력100 공공데이터로 아이 체력을 재고, 부모와 아이가 같이 운동을 이어 가게 만드는 서비스입니다. 국민대 알파프로젝트로 시작해 한국스포츠정책과학원 공공데이터 활용 경진대회에 냈고, 저는 프론트엔드 전체와 시연용 AWS 배포를 맡고 있습니다. 아이 홈은 three.js로 만든 3D 섬이고, 운동한 날마다 섬에 나무가 한 그루씩 자랍니다.
 
 ```yaml
 period: 2026.09~ (개발 중)
@@ -57,7 +57,7 @@ stack:  Next.js, TypeScript, three.js, TanStack Query,
 </details>
 
 <details>
-<summary><kbd>2026</kbd>&ensp;<b>두띵</b>&ensp;동아리 굿즈 공동구매 사이트</summary>
+<summary><kbd>2026</kbd>&ensp;<b>두띵</b>&ensp;동아리 굿즈 공동구매</summary>
 <br>
 
 <img src="assets/doothing.webp" alt="두띵 디자인 에디터" width="100%">
