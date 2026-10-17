@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "국민대학교",
+        "description": "소프트웨어학부, 2021.03 입학",
+        "marker-color": "#2c5ee8",
+        "marker-size": "large"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.997,
+          37.6106
+        ]
+      }
+    }
+  ]
+}
