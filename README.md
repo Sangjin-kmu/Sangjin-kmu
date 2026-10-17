@@ -1,14 +1,14 @@
 <picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sangjin-kmu/Sangjin-kmu/main/assets/header-dark-m.svg?v=3">
-  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/Sangjin-kmu/Sangjin-kmu/main/assets/header-light-m.svg?v=3">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sangjin-kmu/Sangjin-kmu/main/assets/header-dark.svg?v=3">
-  <img alt="이상진. 만든 건 끝까지 배포합니다. 신입 백엔드·풀스택 개발자 자리를 찾고 있습니다." src="https://raw.githubusercontent.com/Sangjin-kmu/Sangjin-kmu/main/assets/header-light.svg?v=3" width="100%">
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sangjin-kmu/Sangjin-kmu/main/assets/header-dark-m.svg?v=4">
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/Sangjin-kmu/Sangjin-kmu/main/assets/header-light-m.svg?v=4">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sangjin-kmu/Sangjin-kmu/main/assets/header-dark.svg?v=4">
+  <img alt="이상진" src="https://raw.githubusercontent.com/Sangjin-kmu/Sangjin-kmu/main/assets/header-light.svg?v=4" width="100%">
 </picture>
 
 > [!NOTE]
-> 지금은 혼자 만든 학식 리뷰 서비스 [모나와](https://www.monawa.site)를 운영하면서 가족 체력 서비스 우리가족 체력키움의 프론트엔드를 만들고 있습니다. 12월에는 정보처리기사 시험을 봅니다.
+> 지금은 혼자 만든 학식 리뷰 서비스 [모나와](https://www.monawa.site)를 운영하면서 가족 체력 서비스 우리가족 체력키움의 프론트엔드를 만들고 있습니다.
 
-고등학교 때 문제 풀이로 코딩을 배우다가, 카카오톡 봇을 만들면서 직접 만드는 재미를 알았습니다. 학교 학식표를 긁어 오는 안드로이드 앱도 그때 만들었으니 학식과는 인연이 꽤 깁니다. 대학에서는 웹 팀 프로젝트마다 서버와 배포를 주로 맡았고, 화면이 필요하면 화면도 만들었습니다.
+고등학교 때 문제 풀이로 코딩을 배우다가, 카카오톡 봇을 만들면서 직접 만드는 재미를 알았습니다. 학교 학식표를 긁어 오는 안드로이드 앱도 그때 만들었습니다. 대학에서는 웹 팀 프로젝트마다 서버와 배포를 주로 맡았고, 화면이 필요하면 화면도 만들었습니다.
 
 ## projects/
 
@@ -21,7 +21,7 @@
 
 학교 식단표에는 메뉴 이름만 있어서 먹어 봐야 맛을 알 수 있었습니다. 그래서 학생들이 남긴 사진과 별점을 보고 오늘 뭘 먹을지 고르는 서비스를 만들었습니다. 기획과 디자인, 개발, 운영을 모두 혼자 합니다.
 
-평가는 존맛, 먹을만, 노맛 중 하나를 고르면 끝나도록 가볍게 만들었습니다. 매일 아침 7시에 GitHub Actions가 학교 학식 페이지를 읽어 와 식당과 코너, 가격을 정리하고, 같은 이름의 메뉴는 하나로 합쳐서 예전에 쌓인 리뷰가 그대로 이어집니다. 방학 동안 만들어 개강 전에 열었고, 학기 중에는 매주 리뷰 추첨 이벤트를 열면서 들어오는 제보를 하나씩 처리합니다.
+메뉴에서 존맛, 먹을만, 노맛 중 하나를 고르고 별점 등록을 누르면 끝납니다. 매일 아침 7시에 GitHub Actions가 학교 학식 페이지를 읽어 와 식당과 코너, 가격을 정리하고, 같은 이름의 메뉴는 하나로 합쳐서 예전에 쌓인 리뷰가 그대로 이어집니다. 방학 동안 만들어 개강 전에 열었고, 학기 중에는 매주 리뷰 추첨 이벤트를 열면서 들어오는 제보를 하나씩 처리합니다.
 
 ```yaml
 period: 2026.08~ (운영 중)
@@ -31,7 +31,7 @@ stack:  Next.js, TypeScript, Tailwind CSS, PostgreSQL(RDS),
         S3, Amplify, GitHub Actions
 ```
 
-[www.monawa.site](https://www.monawa.site)&ensp;<sub>저장소는 비공개입니다.</sub>
+[www.monawa.site](https://www.monawa.site)
 
 </details>
 
@@ -184,7 +184,6 @@ stack:  Unity 6, C#, ScriptableObject, New Input System
 gitGraph TB:
   commit id: "init 웹 파싱 봇과 학식 앱"
   commit id: "2019.07 리눅스마스터 2급"
-  commit id: "2019.08 알고리즘 대회 장려상"
   commit id: "2019.09 정보처리기능사"
   commit id: "2021.03 국민대학교 소프트웨어학부 입학"
   commit id: "2025.04 SQLD"
@@ -213,8 +212,6 @@ gitGraph TB:
 </picture>
 
 ## kookmin.geojson
-
-서울 성북구 정릉동. 2021년 소프트웨어 특기자전형으로 입학했고, 2027년 2월에 졸업할 예정입니다.
 
 ```geojson
 {
@@ -447,8 +444,6 @@ gitGraph TB:
 ```
 
 ## nameplate.stl
-
-편집기 창 모양 명패입니다. 이름은 Pretendard Bold 글자 윤곽을 파이썬으로 세워 만들었습니다.
 
 ```stl
 solid nameplate
@@ -6449,5 +6444,5 @@ endsolid nameplate
 
 ## contact.sh
 
-메일이 가장 빠릅니다. [leesangjin128@gmail.com](mailto:leesangjin128@gmail.com)
+[leesangjin128@gmail.com](mailto:leesangjin128@gmail.com)
 
