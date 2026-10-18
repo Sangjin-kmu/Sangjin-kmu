@@ -38,7 +38,7 @@
 </picture>
 
 <details open>
-<summary><kbd>2026</kbd>&ensp;<b>모나와</b>&ensp;학식 리뷰 서비스</summary>
+<summary><kbd>2026</kbd>&ensp;<b>모나와</b>&ensp;학식 리뷰 서비스&ensp;<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sangjin-kmu/Sangjin-kmu/main/assets/status-live-dark.svg?v=1"><img alt="운영 중" src="https://raw.githubusercontent.com/Sangjin-kmu/Sangjin-kmu/main/assets/status-live-light.svg?v=1" align="absmiddle"></picture></summary>
 <br>
 
 <img src="assets/monawa.webp" alt="모나와 홈, 랭킹, 메뉴 상세, 검색 화면" width="100%">
@@ -56,12 +56,12 @@ stack:  Next.js, TypeScript, Tailwind CSS, PostgreSQL(RDS),
         S3, Amplify, GitHub Actions
 ```
 
-[www.monawa.site](https://www.monawa.site)
+[![www.monawa.site](https://img.shields.io/badge/www.monawa.site-D2502E?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACoAAAAqBAMAAAA37dRoAAAAMFBMVEX///////////////////////////////////////////////////////////////9Or7hAAAAAEHRSTlMAESIzRFVmd4iZqrvM3e7/dpUBFQAAAU1JREFUeNptkrsvREEUxr%2B5u8QmyBYi0chlFYTETTQqJCRakXiEhlZDoyb8ARqlQqJQUMj2Hr1E1LL2QUfk3kh2bfZxP8XOzH3NV5385sw5c%2BZ8gNaQDYP6P00045uSe3lpoPusJGEX%2BatiS9MtoJhItUjuJF9A1pGokAY2Te%2BqIpnbxLOBNspZ08BTVRMVjSBOKTa2vFbLuPXICHsvJMmfayeA6UcqNRc0PWOgPwW7Sb4dzozmNi5IrkjaR/9UhrMun2Q4zbwuNqm/fp6OmkukWJET2zjxJOW4ujRYon%2Be1XVbu4CA9W4DKNzceyK3vgqgPeABPYzrAJb%2BiUAOLDBByx0fxGQDwHYMXnVuHEVgTdYZjtBXOdtXpJcypiiFUlv6eC5EP4INuUFqyO8Tmh6HW6jK7Yij7pSvovZ/IEl%2By1UK5ZOlxZFi4Vbu5B/RN/gVeTOE2wAAAABJRU5ErkJggg==)](https://www.monawa.site)
 
 </details>
 
 <details>
-<summary><kbd>2026</kbd>&ensp;<b>체력키움</b>&ensp;가족 체력 서비스</summary>
+<summary><kbd>2026</kbd>&ensp;<b>체력키움</b>&ensp;가족 체력 서비스&ensp;<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sangjin-kmu/Sangjin-kmu/main/assets/status-dev-dark.svg?v=1"><img alt="개발 중" src="https://raw.githubusercontent.com/Sangjin-kmu/Sangjin-kmu/main/assets/status-dev-light.svg?v=1" align="absmiddle"></picture></summary>
 <br>
 
 <img src="assets/kium.webp" alt="체력키움 아이 홈의 3D 섬, 부모 홈, 가족 리그, 오늘 운동 화면" width="100%">
@@ -77,7 +77,7 @@ stack:  Next.js, TypeScript, three.js, TanStack Query,
         Zustand, Tailwind CSS, Lightsail, CloudFront
 ```
 
-[family-fitness/family-fitness-fe](https://github.com/family-fitness/family-fitness-fe)
+[![family-fitness/family-fitness-fe](https://img.shields.io/badge/family--fitness%2Ffamily--fitness--fe-373E47?style=flat-square&logo=github&logoColor=white)](https://github.com/family-fitness/family-fitness-fe)
 
 </details>
 
@@ -100,7 +100,7 @@ stack:  Node.js, Express, TypeScript, PostgreSQL,
         EC2, S3, CloudFront, HTML/CSS/JS
 ```
 
-[AWS-PORJECT-2/AWS_PROJECT_2](https://github.com/AWS-PORJECT-2/AWS_PROJECT_2)
+[![AWS-PORJECT-2/AWS_PROJECT_2](https://img.shields.io/badge/AWS--PORJECT--2%2FAWS__PROJECT__2-373E47?style=flat-square&logo=github&logoColor=white)](https://github.com/AWS-PORJECT-2/AWS_PROJECT_2)
 
 </details>
 
@@ -120,7 +120,7 @@ role:   Spring 백엔드 (문서, AI 서버 연동, FAQ, 통계)
 stack:  Java 17, Spring Boot 3.4, JPA, PostgreSQL, Flyway
 ```
 
-[KDD-Kookmin-Digital-Doc](https://github.com/KDD-Kookmin-Digital-Doc)
+[![KDD-Kookmin-Digital-Doc](https://img.shields.io/badge/KDD--Kookmin--Digital--Doc-373E47?style=flat-square&logo=github&logoColor=white)](https://github.com/KDD-Kookmin-Digital-Doc)
 
 </details>
 
@@ -141,7 +141,7 @@ stack:  Spring Boot, MySQL, Web Push, React PWA,
         ODsay, TMAP, Kakao
 ```
 
-[kookmin-sw/2026-capstone-53](https://github.com/kookmin-sw/2026-capstone-53)&ensp;[소개 사이트](https://kookmin-sw.github.io/2026-capstone-53/)
+[![kookmin-sw/2026-capstone-53](https://img.shields.io/badge/kookmin--sw%2F2026--capstone--53-373E47?style=flat-square&logo=github&logoColor=white)](https://github.com/kookmin-sw/2026-capstone-53) [![소개 사이트](assets/link-today.svg)](https://kookmin-sw.github.io/2026-capstone-53/)
 
 </details>
 
@@ -161,7 +161,7 @@ role:   식단 관리, 캘린더, 프로필
 stack:  Android(Java), Room, Google Gemini
 ```
 
-[tldbs0420/Team_9-MobileProgramming_2025](https://github.com/tldbs0420/Team_9-MobileProgramming_2025)
+[![tldbs0420/Team_9-MobileProgramming_2025](https://img.shields.io/badge/tldbs0420%2FTeam__9--MobileProgramming__2025-373E47?style=flat-square&logo=github&logoColor=white)](https://github.com/tldbs0420/Team_9-MobileProgramming_2025)
 
 </details>
 
@@ -182,7 +182,7 @@ role:   플레이어 스탯, 아이템 파밍, 거점, 오염구역,
 stack:  Unity 6, C#, ScriptableObject, New Input System
 ```
 
-[tldbs0420/Team_6-GameSoftware_2025](https://github.com/tldbs0420/Team_6-GameSoftware_2025)&ensp;[itch.io](https://ssutte.itch.io/section-null)
+[![tldbs0420/Team_6-GameSoftware_2025](https://img.shields.io/badge/tldbs0420%2FTeam__6--GameSoftware__2025-373E47?style=flat-square&logo=github&logoColor=white)](https://github.com/tldbs0420/Team_6-GameSoftware_2025) [![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=flat-square&logo=itchdotio&logoColor=white)](https://ssutte.itch.io/section-null)
 
 </details>
 
@@ -483,5 +483,5 @@ gitGraph TB:
 
 ## contact.sh
 
-[leesangjin128@gmail.com](mailto:leesangjin128@gmail.com)
+[![leesangjin128@gmail.com](https://img.shields.io/badge/leesangjin128@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:leesangjin128@gmail.com)
 
