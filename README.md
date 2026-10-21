@@ -131,12 +131,12 @@ stack:  Java 17, Spring Boot 3.4, JPA, PostgreSQL, Flyway
 <img src="assets/today.webp" alt="직접 만든 오늘어디 소개 사이트" width="100%">
 <br><br>
 
-자주 가는 길을 한 번 등록해 두면 그날 교통 상황으로 출발 시각을 계산해서 웹 푸시로 알려 줍니다. 캡스톤디자인 수업에서 네 명이 만들었고, 저는 경로와 장소 검색, 푸시를 맡은 백엔드와 DB 스키마를 만들었습니다. 경로는 ODsay 대중교통 경로와 TMAP 보행자 경로를 이어 붙여 하나로 만듭니다. 서비스를 알리는 손그림 콘셉트의 소개 사이트도 만들었습니다.
+자주 가는 길을 한 번 등록해 두면 그날 교통 상황으로 출발 시각을 계산해서 웹 푸시로 알려 줍니다. 캡스톤디자인 수업에서 네 명이 만들었고, 저는 백엔드 중 경로와 장소 검색, 푸시를 만들었습니다. 경로는 ODsay 대중교통 경로와 TMAP 보행자 경로를 이어 붙여 하나로 만듭니다. 서비스를 알리는 손그림 콘셉트의 소개 사이트도 만들었습니다.
 
 ```yaml
 period: 2026.03~06
 team:   캡스톤디자인, 4명
-role:   백엔드 (경로, 장소 검색, 푸시), DB 스키마, 프론트 일부
+role:   백엔드 (경로, 장소 검색, 푸시), 프론트 일부
 stack:  Spring Boot, MySQL, Web Push, React PWA,
         ODsay, TMAP, Kakao
 ```
@@ -172,10 +172,10 @@ stack:  Android(Java), Room, Google Gemini
 <img src="assets/section-null.webp" alt="SECTION NULL 플레이 화면" width="100%">
 <br><br>
 
-Unity로 만든 좀비 생존 FPS입니다. 게임소프트웨어 수업에서 네 명이 만들어 itch.io에 올렸고, 제 첫 Unity 작업이었습니다. 아이템 파밍과 거점, 오염구역, 총기 소리를 맡았고, 최종 빌드의 화면 UI는 전부 제가 만들었습니다.
+Unity로 만든 좀비 생존 FPS입니다. 게임소프트웨어 수업에서 네 명이 만들어 itch.io에 올렸고, 제 첫 Unity 작업이었습니다. 아이템 파밍과 거점, 오염구역, 총기 소리를 맡았고, 나침반과 탄약, 낮밤 시계, 레이더 같은 인게임 HUD도 만들었습니다.
 
 ```yaml
-period: 2025.10~11
+period: 2025.09~12
 team:   게임소프트웨어 수업, 4명
 role:   플레이어 스탯, 아이템 파밍, 거점, 오염구역,
         인게임 UI, 사운드
@@ -226,8 +226,8 @@ gitGraph TB:
   commit id: "2021.03 국민대학교 소프트웨어학부 입학"
   commit id: "2025.04 SQLD"
   branch team
+  commit id: "2025.09 SECTION NULL"
   commit id: "2025.10 Aivive"
-  commit id: "2025.10 SECTION NULL"
   checkout main
   merge team id: "2025.11 두 프로젝트 마무리"
   checkout team
